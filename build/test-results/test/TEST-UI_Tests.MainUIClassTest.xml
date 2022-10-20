@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="UI_Tests.MainUIClassTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2022-11-05T09:49:33" hostname="LAPTOP-QO2H58OI" time="28.918">
+  <properties/>
+  <testcase name="1. РћС‚РѕР±СЂР°Р¶РµРЅРёРµ Р·Р°РіРѕР»РѕРІРєР° РЅР° СЃС‚СЂР°РЅРёС†Рµ" classname="UI_Tests.MainUIClassTest" time="1.02"/>
+  <testcase name="2. РџСЂРѕРІРµСЂРєР° Р°РєС‚СѓР°Р»СЊРЅС‹С… С†РµРЅ" classname="UI_Tests.MainUIClassTest" time="3.627"/>
+  <testcase name="3. РџСЂРѕРІРµСЂРєР° РїРѕСЃС‚Р° РЅР° СЃС‚СЂР°РЅРёС†Рµ Jungle" classname="UI_Tests.MainUIClassTest" time="5.791"/>
+  <testcase name="4. РЈСЃРїРµС€РЅР°СЏ Р°РІС‚РѕСЂРёР·Р°С†РёСЏ" classname="UI_Tests.MainUIClassTest" time="5.745"/>
+  <testcase name="5. РћРєРЅРѕ СЃ РїРµСЂРІС‹Рј Р·Р°РґР°РЅРёРµРј" classname="UI_Tests.MainUIClassTest" time="2.955"/>
+  <testcase name="6. РљРЅРѕРїРєР° 'РљСѓРїРёС‚СЊ' РёРЅРёС†РёРёСЂСѓРµС‚ РїРѕСЏРІР»РµРЅРёРµ С„РѕСЂРјС‹ РѕРїР»Р°С‚С‹" classname="UI_Tests.MainUIClassTest" time="4.262"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}) on port 56495
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+нояб. 05, 2022 12:49:30 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected upstream dialect: W3C
+нояб. 05, 2022 12:49:30 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 107, so returning the closest version found: 104
+нояб. 05, 2022 12:49:30 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+INFO: Found CDP implementation for version 107 of 104
+]]></system-err>
+</testsuite>

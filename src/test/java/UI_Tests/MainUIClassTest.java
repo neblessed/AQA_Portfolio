@@ -4,6 +4,7 @@ import UI_Tests.config.BaseSettings;
 import UI_Tests.pages.JunglePage;
 import UI_Tests.pages.LoginPage;
 import UI_Tests.pages.PremiumPage;
+import io.qameta.allure.Owner;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.MethodOrderer;
 import org.junit.jupiter.api.Test;
